@@ -1,4 +1,4 @@
-# Linear_Regression_model
+
 # Profit Estimation Linear Regression Model
 
 ## Overview
